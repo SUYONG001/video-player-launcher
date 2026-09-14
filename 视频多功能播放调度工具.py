@@ -23,7 +23,7 @@ PLAYERS = {
     },
     "2": {
         "name": "mpv",
-        "path": r"D:\Date\Player\mpv\mpv.exe"
+        "path": r"D:\Data\Player\mpv\mpv.exe"
     },
     # 如有其他播放器，取消下方注释并修改对应路径即可：
     # "3": {
