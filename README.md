@@ -50,7 +50,7 @@ PLAYERS = {
     },
     "2": {
         "name": "mpv", 
-        "path": r"D:\Date\Player\mpv\mpv.exe"                                          # mpv 真实路径
+        "path": r"D:\Data\Player\mpv\mpv.exe"                                          # mpv 真实路径
     },
     # 如需挂载第 3、4 个播放器，取消注释并填入对应路径即可：
     # "3": {
